@@ -1,0 +1,24 @@
+body{
+    background-color: peachpuff;
+}
+
+header{
+    background-color: rgb(193, 222, 154);
+}
+
+footer{
+    background-color: rgb(155, 119, 119);
+    color: white;
+}
+form{
+    background-color: rgb(136, 207, 190);
+}
+article {
+    background-color: azure;
+}
+th{
+    background-color: aquamarine;
+}
+td{
+    background-color: aqua;
+}
